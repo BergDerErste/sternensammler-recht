@@ -4,9 +4,15 @@ Die Datenschutzerklärung der Android-App **Sternensammler**, damit sie eine
 öffentlich erreichbare Adresse hat — der Play Store verlangt das, und das
 App-Repository ist privat.
 
-Hier liegt nur diese eine Seite.
+Hier liegen nur diese Seiten:
 
-**Die Quelle steht woanders.** Der Text kommt aus `docs/recht/datenschutz.md`
-im App-Repository und wird dort mit `scripts/datenschutz-html.py` zu dieser
-Seite gemacht. Wer die Seite hier von Hand ändert, hat zwei Fassungen, von
+| Adresse | Für |
+|---|---|
+| `/` | Sternensammler (frei) |
+| `/plus/` | Sternensammler Plus |
+| `/plus/en/` | Star Chart Plus, englisch |
+
+**Die Quelle steht woanders.** Der Text kommt aus `docs/recht/` im
+App-Repository und wird dort mit `scripts/datenschutz-html.py` zu diesen
+Seiten gemacht (`--plus`, `--en`). Wer die Seite hier von Hand ändert, hat zwei Fassungen, von
 denen die gelesene niemand mehr prüft.
